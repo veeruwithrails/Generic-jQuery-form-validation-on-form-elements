@@ -55,6 +55,12 @@ each field whether it is in given format not. In this application we did write c
 
 	js.js :- This had been existed in the includes folder of the application that is linked through the html file. This 
   consists of the validation functions that have been applied to the form elements.
+  
+  	jquery.maskedinput-1.3.min.js:- This had been existed in the includes folder of the application that is linked 
+  through the html file. This consists of the script code for masked input for the phone number field
+	
+	jquery.validate.js:- This had been existed in the includes folder of the application that is linked through the
+  html file. This is the jQuery plug in for validation purpose.
 
 	Images :- This folder consists of the images that we have applied for the elements of the form.
 
