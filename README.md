@@ -61,7 +61,7 @@ each field whether it is in given format not. In this application we did write c
 	screenshot :- This is the screen shot of the main form.
 
 	
-<img style="max-width:100%;" src="https://github.com/veerababu-nyros/Generic-jQuery-form-validation-on-form-elements/raw/master/screenshot.bmp" alt="formvalidate" title="formvalidate">
+<img style="max-width:100%;" src="https://github.com/veerababu-nyros/Generic-jQuery-form-validation-on-form-elements/raw/master/Screenshot.bmp" alt="formvalidate" title="formvalidate">
 
 
 
