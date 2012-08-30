@@ -57,7 +57,7 @@
 					minlength: "enter valid name",
 					maxlength: "enter valid name"
 				},
-				username: {
+				password: {
 					required: "password required",
 					minlength: "enter valid name",
 					maxlength: "enter valid name"
